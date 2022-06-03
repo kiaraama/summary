@@ -1,0 +1,16 @@
+body{
+  background: black;
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+.card-box{
+  background-color: #F5F7FF;
+  background-color:  hsl(225, 100%, 98%);
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-align: center;
+  float: left;
+}
