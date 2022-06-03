@@ -1,6 +1,7 @@
+import url(https://fonts.google.com/specimen/Red+Hat+Display);
 body{
   background: black;
-  font-family: "Red Hat Display", sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: 16px;
   text-align: center;
 }
